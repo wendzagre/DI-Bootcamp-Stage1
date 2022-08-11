@@ -1,0 +1,38 @@
+/* header section*/
+.header {
+    display: flex;
+
+    
+      
+  }
+
+  .header a {
+    margin-left: 80px;
+    padding:15px;
+    
+  }
+
+  h2{
+    font-weight: bold;
+    font-size: 20px;
+  }
+
+  .ticko{
+    background-color:turquoise;
+  }
+
+  .biographie{
+    font-size: 50px;
+  }
+
+  .kevin{
+    font-size: 20px;
+  }
+
+  .rodrigue{
+    font-size: 20px;
+  }
+
+  .yanick{
+    font-size: 20px;
+  }
